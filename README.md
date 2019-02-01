@@ -1,6 +1,6 @@
 Haskellでなんか書いてみる。
 
-とりあえず「HelloWorld!」を表示させる。
+名前を入力すると「Hello, xxx san.」と表示する。
   
 #ビルド
 ```
