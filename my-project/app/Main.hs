@@ -4,5 +4,6 @@ import Lib
 
 main :: IO ()
 main = do
-    someFunc
-    print "HelloWorld!"
+    print "Please input your name."
+    name <- getLine
+    print ("Hello, " ++ name ++ " san.")
